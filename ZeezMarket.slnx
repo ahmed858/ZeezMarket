@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ZeezMarket.Api/ZeezMarket.Api.csproj" />
+    <Project Path="src/ZeezMarket.Application/ZeezMarket.Application.csproj" />
+    <Project Path="src/ZeezMarket.Domain/ZeezMarket.Domain.csproj" />
+    <Project Path="src/ZeezMarket.Infrastructure/ZeezMarket.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ZeezMarket.NunitTest/ZeezMarket.NunitTest.csproj" />
+  </Folder>
+</Solution>
